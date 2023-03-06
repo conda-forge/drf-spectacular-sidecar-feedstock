@@ -1,11 +1,11 @@
-About drf-spectacular-sidecar
-=============================
+About drf-spectacular-sidecar-feedstock
+=======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/drf-spectacular-sidecar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/tfranzel/drf-spectacular-sidecar
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/drf-spectacular-sidecar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Serve self-contained distribution builds of Swagger UI and Redoc with Django
 
