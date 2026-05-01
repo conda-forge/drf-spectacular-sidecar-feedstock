@@ -1,5 +1,5 @@
 {% set name = "drf-spectacular-sidecar" %}
-{% set version = "2026.4.14" %}
+{% set version = "2026.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/drf_spectacular_sidecar-{{ version }}.tar.gz
-  sha256: d4c299a85f3be44e93eaff3d83e986f27b744bb9823ba034aff9fd267ebc9fea
+  sha256: cdeca03e32859318a563b5733d5fc196c8b563a178a85fd380e227ed642c19ca
 
 build:
   noarch: python
